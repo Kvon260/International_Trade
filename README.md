@@ -6,7 +6,7 @@ This repository offers a collection of SQL queries and comprehensive documentati
 - **CSV files**: A .csv file, or Comma Separated Values file, is a plain text file where data is separated by commas. It's commonly used to store and exchange tabular data, like spreadsheets, and is easily readable and writable by various programs. 
 - **SQL**: SQL extensions are Structured Query Language (SQL) data files, which are used to access and modify relational databases.
 
-Click 👉🏾 here 👈🏾to see these files
+Click 👉🏾 [here](https://drive.google.com/file/d/1gDgkDfohR_hGTgRsnn3rSLG8HJZ2lmQu/view?usp=share_link) 👈🏾to see these files
 ## SQL Queries 
 - What are the top 5 importers?
 - Who are the top 5 exporters?
